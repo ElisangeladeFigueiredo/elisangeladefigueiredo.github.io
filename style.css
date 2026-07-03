@@ -23,8 +23,8 @@ a{color:inherit;text-decoration:none}
 }
 
 .hero-photo img{
-    width:68%;
-    max-width:360px;
+    width:85%;
+    max-width:500px;
     height:auto;
     object-fit:contain;
     display:block;
